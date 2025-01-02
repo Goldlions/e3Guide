@@ -140,9 +140,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      // imageZoom: {
+      imageZoom: {
         // CSS selector to apply the plugin to, defaults to '.markdown img'
-        // selector: '.markdown :not(em) > img',
+        selector: '.markdown :not(em) > img',
         // config: {
         //   margin:0,
         //   background: {
@@ -150,7 +150,7 @@ const config = {
         //     dark: 'rgb(50, 50, 50)'
         //   }
         // }
-      // },
+      },
       // algolia: {
       //   // Algolia 提供的应用 ID
       //   appId: 'YOUR_APP_ID',

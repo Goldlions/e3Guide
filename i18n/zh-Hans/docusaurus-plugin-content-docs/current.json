@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.代理商": {
+    "message": "代理商",
+    "description": "The label for category 代理商 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.代理商中台": {
+    "message": "代理商中台",
+    "description": "The label for category 代理商中台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.代理商门店": {
+    "message": "代理商门店",
+    "description": "The label for category 代理商门店 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.直属经销商": {
+    "message": "直属经销商",
+    "description": "The label for category 直属经销商 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.直属经销商中台": {
+    "message": "直属经销商中台",
+    "description": "The label for category 直属经销商中台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.员工管理": {
+    "message": "员工管理",
+    "description": "The label for category 员工管理 in sidebar tutorialSidebar"
+  }
+}
