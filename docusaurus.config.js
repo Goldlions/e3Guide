@@ -35,15 +35,6 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans', 'en'],
-    localeConfigs: {
-      en: {
-        htmlLang: 'en-GB',
-      },
-      // 如果不需要重写默认值，可以忽略 locale (例如 zh-Hans)
-      'zh-Hans': {
-        htmlLang: 'zh-CN',
-      },
-    },
   },
 
   presets: [

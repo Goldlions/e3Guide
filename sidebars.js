@@ -26,7 +26,7 @@ const sidebars = {
     // 代理商
     {
         type: 'category',
-        label: 'Agent', // 侧边栏标签文字
+        label: '代理商', // 侧边栏标签文字
         collapsible: true,
         // 侧边栏初始展示时是展开的状态
         // collapsed: false,
@@ -38,7 +38,7 @@ const sidebars = {
         items: [
             {
                 type: 'category',
-                label: 'agentBackend', // 侧边栏标签文字
+                label: '代理商中台', // 侧边栏标签文字
                 collapsible: true,
                 link: {
                     type: 'doc',
@@ -56,7 +56,7 @@ const sidebars = {
             },
             {
                 type: 'category',
-                label: 'agentStore', // 侧边栏标签文字
+                label: '代理商门店', // 侧边栏标签文字
                 link: {
                     type: 'doc',
                     id: 'agent/agentStore/agentStore',
@@ -69,7 +69,7 @@ const sidebars = {
     }, // 直属经销商
     {
         type: 'category',
-        label: 'directDealer', // 侧边栏标签文字
+        label: '直属经销商', // 侧边栏标签文字
         "description" : "直属经销商",
         // 绑定文档
         link: {
@@ -82,7 +82,7 @@ const sidebars = {
         items: [
             {
                 type: 'category',
-                label: 'directDealerBackend', // 侧边栏标签文字
+                label: '直属经销商中台', // 侧边栏标签文字
                 collapsible: true,
                 link: {
                     type: 'doc',
@@ -111,22 +111,22 @@ const sidebars = {
     },
     //   员工管理
     {
-      type: 'category',
-      label: 'Staff Management', // 侧边栏标签文字
-      "description" : "员工管理",
-      // 绑定文档
-      link: {
-          type: 'doc', // 值:doc 文档
-          id: 'staff-management/index',
-          // "description": "5 minutes to learn the most important Docusaurus concepts."
-      },
-      collapsible: true,
-      // 侧边栏初始展示时是展开的状态
-      // collapsed: false,
-      items: [
-          'staff-management/add-staff',
-          'staff-management/update'
-      ],
+        type: 'category',
+        label: '员工管理', // 侧边栏标签文字
+        "description" : "员工管理",
+        // 绑定文档
+        link: {
+            type: 'doc', // 值:doc 文档
+            id: 'staffManagement/staffManagement',
+            // "description": "5 minutes to learn the most important Docusaurus concepts."
+        },
+        collapsible: true,
+        // 侧边栏初始展示时是展开的状态
+        // collapsed: false,
+        items: [
+            'staffManagement/add',
+            'staffManagement/update'
+        ],
     },
 
     // 供应链管理

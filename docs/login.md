@@ -1,7 +1,8 @@
 ---
+slug: /systemLogin
 sidebar_position: 2
 title: 系统登录
-sidebar_label: System Login
+sidebar_label: 系统登录
 keywords: 
   - login
 ---
