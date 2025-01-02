@@ -1,0 +1,12 @@
+{
+  "label": "Chain Management",
+  "position": 8,
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "供应链管理",
+    "description": "代销货品操作指南"
+  }
+}

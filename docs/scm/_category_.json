@@ -1,0 +1,11 @@
+{
+  "label": "Distribution Management",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "分销管理"
+  }
+}

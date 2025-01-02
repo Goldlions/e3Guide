@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Distribution Management": {
+    "message": "Distribution Management",
+    "description": "The label for category Distribution Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Distribution Management.link.generated-index.title": {
+    "message": "分销管理",
+    "description": "The generated-index page title for category Distribution Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.inventory-center": {
+    "message": "inventory-center",
+    "description": "The label for category inventory-center in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.inventory-center.link.generated-index.title": {
+    "message": "库存中心",
+    "description": "The generated-index page title for category inventory-center in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.reporting-center": {
+    "message": "reporting-center",
+    "description": "The label for category reporting-center in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.reporting-center.link.generated-index.title": {
+    "message": "报表中心",
+    "description": "The generated-index page title for category reporting-center in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chain Management": {
+    "message": "Chain Management",
+    "description": "The label for category Chain Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chain Management.link.generated-index.title": {
+    "message": "供应链管理",
+    "description": "The generated-index page title for category Chain Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chain Management.link.generated-index.description": {
+    "message": "代销货品操作指南",
+    "description": "The generated-index page description for category Chain Management in sidebar tutorialSidebar"
+  }
+}

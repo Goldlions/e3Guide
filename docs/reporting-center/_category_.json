@@ -1,0 +1,10 @@
+{
+  "label": "reporting-center",
+  "position": 6,
+  "collapsible": true,
+  "className": "pre-call-docs",
+  "link": {
+    "type": "generated-index",
+    "title": "报表中心"
+  }
+}

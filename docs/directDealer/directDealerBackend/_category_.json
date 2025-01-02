@@ -1,0 +1,11 @@
+{
+  "label": "directDealerBackend",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "直属经销商"
+  }
+}
