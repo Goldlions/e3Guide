@@ -16,15 +16,15 @@ const config = {
   // themes: ['@docusaurus/theme-search-algolia'],
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://goldlions.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/e3Guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Goldlions', // Usually your GitHub org/user name.
-  projectName: 'E3Guide', // Usually your repo name.
+  projectName: 'e3Guide', // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
